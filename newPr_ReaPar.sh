@@ -130,7 +130,7 @@ echo "# $1
 ## Licence
 
 ## Contact
-=> $USER.gendarmerie.interieur.gouv.fr
+=> $USER@gmail.com
 
 " >> README.md;
 
