@@ -1,7 +1,7 @@
 #!/bin/bash
 # newProject.sh
 # script d'initialisation de projet React+Parcel
-# nov-2021 - par david-2.garnier
+# nov-2021 - par Kaemyll
 #
 set -e;
 
@@ -78,13 +78,6 @@ Installation de REACT-BOOSTRAP & BOOTSTRAP...
 yarn add react-bootstrap bootstrap;
 
 #Initialisation des principaux fichiers
-echo "
-------------------------------
-Création du fichier .yarnrc...
-------------------------------";
-echo "registry \"https://pnexus.gendarmerie.fr/repository/Node_Js/\"
-\"@stsisi:registry\" \"https://pnexus.gendarmerie.fr/repository/Node_JS_hosted/\"
-" >> .yarnrc;
 
 echo "
 ---------------------------------
